@@ -1,0 +1,24 @@
+Collecting pycocotools
+  Using cached pycocotools-2.0.6.tar.gz (24 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Requirement already satisfied: matplotlib>=2.1.0 in c:\users\serda\anaconda3\envs\superyolo\lib\site-packages (from pycocotools) (3.4.3)
+Requirement already satisfied: numpy in c:\users\serda\anaconda3\envs\superyolo\lib\site-packages (from pycocotools) (1.24.3)
+Requirement already satisfied: cycler>=0.10 in c:\users\serda\anaconda3\envs\superyolo\lib\site-packages (from matplotlib>=2.1.0->pycocotools) (0.11.0)
+Requirement already satisfied: kiwisolver>=1.0.1 in c:\users\serda\anaconda3\envs\superyolo\lib\site-packages (from matplotlib>=2.1.0->pycocotools) (1.4.4)
+Requirement already satisfied: pillow>=6.2.0 in c:\users\serda\anaconda3\envs\superyolo\lib\site-packages (from matplotlib>=2.1.0->pycocotools) (9.5.0)
+Requirement already satisfied: pyparsing>=2.2.1 in c:\users\serda\anaconda3\envs\superyolo\lib\site-packages (from matplotlib>=2.1.0->pycocotools) (3.0.9)
+Requirement already satisfied: python-dateutil>=2.7 in c:\users\serda\anaconda3\envs\superyolo\lib\site-packages (from matplotlib>=2.1.0->pycocotools) (2.8.2)
+Requirement already satisfied: six>=1.5 in c:\users\serda\anaconda3\envs\superyolo\lib\site-packages (from python-dateutil>=2.7->matplotlib>=2.1.0->pycocotools) (1.16.0)
+Building wheels for collected packages: pycocotools
+  Building wheel for pycocotools (pyproject.toml): started
+  Building wheel for pycocotools (pyproject.toml): finished with status 'done'
+  Created wheel for pycocotools: filename=pycocotools-2.0.6-cp39-cp39-win_amd64.whl size=77426 sha256=ae4d129b91b165909de5d11dfb8c9fa97e64c7c7471902038ef794a809d4a0c1
+  Stored in directory: c:\users\serda\appdata\local\pip\cache\wheels\2f\58\25\e78f1f766e904a9071266661d20d0bc6644df86bcd160aba11
+Successfully built pycocotools
+Installing collected packages: pycocotools
+Successfully installed pycocotools-2.0.6

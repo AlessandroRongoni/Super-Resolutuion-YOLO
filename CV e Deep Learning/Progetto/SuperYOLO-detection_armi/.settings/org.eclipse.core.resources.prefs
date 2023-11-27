@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//models/sync_batchnorm/batchnorm.py=utf-8
+encoding//models/sync_batchnorm/comm.py=utf-8
+encoding//models/sync_batchnorm/replicate.py=utf-8
+encoding//models/sync_batchnorm/unittest.py=utf-8
+encoding//utils/datasets.py=UTF-8
+encoding//utils/ensemble_boxes/__init__.py=utf-8
+encoding//utils/ensemble_boxes/ensemble_boxes_nms.py=utf-8
+encoding//utils/ensemble_boxes/ensemble_boxes_nmw.py=utf-8
+encoding//utils/ensemble_boxes/ensemble_boxes_wbf.py=utf-8
+encoding//utils/ensemble_boxes/ensemble_boxes_wbf_3d.py=utf-8
+encoding/test.py=UTF-8
+encoding/train.py=utf-8

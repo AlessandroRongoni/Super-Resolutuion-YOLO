@@ -1,0 +1,3 @@
+Looking in links: https://download.pytorch.org/whl/torch_stable.html
+Requirement already satisfied: torch in c:\users\serda\anaconda3\envs\superyolo_detection_armi\lib\site-packages (2.0.1)
+Requirement already satisfied: torchvision in c:\users\serda\anaconda3\envs\superyolo_detection_armi\lib\site-packages (0.15.2)
